@@ -6,4 +6,4 @@ Home for the personal website Project
  - Entertainment
  - Art
  - Technology
-## Hence name would be **FEAT**
+Hence name would be **FEAT**
